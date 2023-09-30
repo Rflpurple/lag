@@ -1,3 +1,0 @@
-pymino
-gtts
-amino.fix
